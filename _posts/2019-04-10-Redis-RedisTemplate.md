@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Redis:RedisTemplate常用方法总结"
-category: 'JavaScript'
+title: "Redis--RedisTemplate常用方法总结"
+category: 'Redis'
 ---
 
 > 很多公司都将redisTemplate进行了封装，封装成业务所需要的RedisUtil工具类方便进行调用，本篇文章总结了redisTemplate常用的一些方法。
