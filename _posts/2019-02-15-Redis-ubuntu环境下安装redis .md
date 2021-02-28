@@ -112,7 +112,7 @@ redis-cli -h xxx.xxx.xx.xxx -p 6381
 **port:** redis对外端口号（单机多实例的时代需要配置的）
 **logfile:** redis系统日志
 **dir:** redis工作目录（日志、持久化文件等存放地方）
-初次之外，redis还有许多其他的配置如RDB config、AOF config、slow Log conig、maxMemory等等
+除此之外，redis还有许多其他的配置如RDB config、AOF config、slow Log conig、maxMemory等等
 
 参考：[https://github.com/nuptkwz/notes/tree/master/technology/redis](https://github.com/nuptkwz/notes/tree/master/technology/redis)
 
