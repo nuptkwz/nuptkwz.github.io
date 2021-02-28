@@ -3,6 +3,7 @@ layout: post
 title: "Redis--redis基础以及ubuntu16.04环境下搭建"
 category: 'Redis'
 ---
+> 本文介绍了Redis的基础，并且记录了Redis在ubuntu16.04环境下搭建过程。
 
 @[toc]
 ## redis是什么?
