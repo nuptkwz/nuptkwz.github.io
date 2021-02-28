@@ -12,7 +12,7 @@ google_analytics:
 cayman-blog:
   date_format: "%b %-d, %Y"
 
-theme: jekyll-theme-cayman
+theme: # leave it empty
 
 # social
 author: KeWeiZhou
