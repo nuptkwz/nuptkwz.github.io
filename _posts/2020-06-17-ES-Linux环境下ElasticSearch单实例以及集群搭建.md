@@ -4,6 +4,8 @@ title: "ElasticSearch概念与基本api使用"
 category: 'ElasticSearch'
 ---
 
+本文介绍了ElasticSearch的基本概念以及基于Linux环境下的单实例和集群安装
+
 @[TOC]
 # 什么是ElasticSearch
  - 基于Apache Lucene构建的开源搜索引擎
