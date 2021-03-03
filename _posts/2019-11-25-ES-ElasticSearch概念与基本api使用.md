@@ -4,7 +4,7 @@ title: "ElasticSearch概念与基本api使用"
 category: 'ElasticSearch'
 ---
 
-> 本文介绍了ES的一些基础概念以及基本的api使用。
+本文介绍了ES的一些基础概念以及基本的api使用
 
 @[TOC](目录)
 # es的基础概念
