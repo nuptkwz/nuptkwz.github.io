@@ -14,6 +14,7 @@ category: 'Redis'
 - Set
 - zSet
 - Sorted set
+
 # String类型
 判断是否有key所对应的值，有则返回true，没有则返回false
 ```
