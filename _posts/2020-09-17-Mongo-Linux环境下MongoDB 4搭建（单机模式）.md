@@ -11,7 +11,7 @@ category: 'MongoDB'
 - Ubuntu 5.4.0-6ubuntu1~16.04.12
 - mongodb-linux-x86_64-ubuntu1604-4.2.8.tgz
 
-#步骤
+# 步骤
 1. 下载
 wget https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-ubuntu1604-4.2.8.tgz
 2.  解压
