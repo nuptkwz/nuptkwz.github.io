@@ -4,6 +4,7 @@ title: "Redis--redis基础以及ubuntu16.04环境下搭建"
 category: 'Redis'
 ---
 
+
 本文介绍了Redis的几种常用数据类型以及基本API的使用
 
 @[toc]
