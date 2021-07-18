@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ElasticSearch概念与基本api使用"
+title: "Linux环境下ElasticSearch单实例以及集群搭建"
 category: 'ElasticSearch'
 ---
 
